@@ -5,3 +5,4 @@
 ## Livro de Receitas :man_cook:
 
 - Strogonoff de frango.
+- Pizza de calabresa
